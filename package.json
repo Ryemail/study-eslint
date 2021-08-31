@@ -1,0 +1,11 @@
+{
+  "name": "study-eslint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ryemail/study-eslint.git",
+  "author": "MY <ruany@golive.cc>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
